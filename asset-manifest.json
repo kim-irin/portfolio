@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f619a314.css",
-    "main.js": "/portfolio/static/js/main.82a7d96a.js",
+    "main.css": "/portfolio/static/css/main.30ec0e36.css",
+    "main.js": "/portfolio/static/js/main.3f6850d6.js",
     "static/media/Poppins-Regular.woff2": "/portfolio/static/media/Poppins-Regular.216fbdd5b40fbd3fd88a.woff2",
     "static/media/Poppins-SemiBold.woff2": "/portfolio/static/media/Poppins-SemiBold.0d1c790b4b21cb894304.woff2",
     "static/media/Poppins-Medium.woff2": "/portfolio/static/media/Poppins-Medium.667e78ebfff2495f8fb8.woff2",
@@ -10,12 +10,14 @@
     "static/media/NotoSansKR-Regular.woff2": "/portfolio/static/media/NotoSansKR-Regular.e95adf0e9aeddac43f42.woff2",
     "static/media/NotoSansKR-Medium.woff2": "/portfolio/static/media/NotoSansKR-Medium.e5d0c16f11ebac0c56d2.woff2",
     "static/media/profile.jpg": "/portfolio/static/media/profile.1601a3dfde3816793f7b.jpg",
+    "static/media/github.png": "/portfolio/static/media/github.553c66159c5672f25df6.png",
+    "static/media/blog.png": "/portfolio/static/media/blog.840e2a3f5cac89661133.png",
     "index.html": "/portfolio/index.html",
-    "main.f619a314.css.map": "/portfolio/static/css/main.f619a314.css.map",
-    "main.82a7d96a.js.map": "/portfolio/static/js/main.82a7d96a.js.map"
+    "main.30ec0e36.css.map": "/portfolio/static/css/main.30ec0e36.css.map",
+    "main.3f6850d6.js.map": "/portfolio/static/js/main.3f6850d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.f619a314.css",
-    "static/js/main.82a7d96a.js"
+    "static/css/main.30ec0e36.css",
+    "static/js/main.3f6850d6.js"
   ]
 }
